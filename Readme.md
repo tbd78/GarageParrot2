@@ -1,5 +1,5 @@
 # Garage-Parrot
-Ce site est un site vitrine pour un garage
+Ce site est un site vitrine pour un garage automobile
 
 # Installation
 
